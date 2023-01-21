@@ -2,6 +2,8 @@
 
 This project aims to implement and train a Variational Autoencoder (VAE) on the CIFAR10 and MNIST dataset. VAEs are a type of generative model that can be used to generate new images by learning a compact, low-dimensional representation of the data.
 
+![Varitational-AutoEncoders](https://github.com/darshan8850/Varitational-AutoEncoders-on-CIFAR10-AND-MNIST-Dataset/blob/main/VAEScene.gif)
+
 ## Dependencies
   * Python 3.x
   * Tensorflow 2.x
