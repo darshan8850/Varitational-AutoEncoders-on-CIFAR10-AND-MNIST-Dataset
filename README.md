@@ -22,14 +22,14 @@ Additionally, we also visualized the Latent space by using t-SNE plots. It helps
 
 ## Installation
  1. Clone the repository
-     git clone https://github.com/darshan8850/Varitational-AutoEncoders-on-CIFAR10-AND-MNIST-Dataset
- 2. Run main.ipynb file
+ git clone https://github.com/darshan8850/Varitational-AutoEncoders-on-CIFAR10-AND-MNIST-Dataset
+ 3. Run main.ipynb file
  
- Contribution
+ ## Contribution
 If you would like to contribute to this project, please follow these guidelines:
 
-## Fork the repository
-  1. Create a new branch for your changes (e.g. feature/new-feature)
-  2. Make the necessary changes and commit them
-  3. Submit a pull request
+  1.Fork the repository
+  2. Create a new branch for your changes 
+  3. Make the necessary changes and commit them
+  4. Submit a pull request
    
