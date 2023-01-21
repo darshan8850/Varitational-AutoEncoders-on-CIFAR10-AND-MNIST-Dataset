@@ -28,7 +28,7 @@ Additionally, we also visualized the Latent space by using t-SNE plots. It helps
  ## Contribution
 If you would like to contribute to this project, please follow these guidelines:
 
-  1.Fork the repository
+  1. Fork the repository
   2. Create a new branch for your changes 
   3. Make the necessary changes and commit them
   4. Submit a pull request
